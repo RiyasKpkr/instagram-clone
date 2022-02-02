@@ -15,7 +15,7 @@ class _WebeScreenLayoutState extends State<WebeScreenLayout> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
         child: Text('this is web sreen layout'),
       ),

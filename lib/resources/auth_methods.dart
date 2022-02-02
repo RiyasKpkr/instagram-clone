@@ -67,7 +67,7 @@ class AuthMethods {
         //   'following' : [],
         // });
 
-        res = 'succes';
+        res = 'success';
       }
     }
     // on FirebaseAuthException catch(err){
